@@ -1,0 +1,28 @@
+.link-icon-button-container {
+  width: 151px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.link-icon-button-button {
+  color: #ffac00;
+  width: 266px;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  border-width: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #ff8d00;
+}
+.link-icon-button-text {
+  color: #ffffff;
+}
+.link-icon-button-icon {
+  fill: #ffffff;
+  width: 20px;
+  align-self: center;
+}
